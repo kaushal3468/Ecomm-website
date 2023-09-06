@@ -1,0 +1,255 @@
+{
+  "seller": [
+    {
+      "name": "kaushal sharma",
+      "email": "kaushalsharma4321",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Kaushal",
+      "email": "kaushal@123",
+      "password": "sdsdsddsw",
+      "id": 2
+    },
+    {
+      "name": "cscc",
+      "email": "sdsds",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "mishal pandey",
+      "email": "mishal@gmail.com",
+      "password": "mishal@123",
+      "id": 4
+    },
+    {
+      "name": "mishal pandey",
+      "email": "mishal@gmail.com",
+      "password": "mishal@123",
+      "id": 5
+    },
+    {
+      "name": "mishal pandey",
+      "email": "mishal@gmail.com",
+      "password": "mishal@123",
+      "id": 6
+    },
+    {
+      "name": "mishal pandey",
+      "email": "mishal@gmail.com",
+      "password": "mishal@123",
+      "id": 7
+    },
+    {
+      "name": "laushal",
+      "email": "zdwdwdw@123",
+      "password": "32323",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "name": "abc",
+      "email": "abc@123",
+      "password": "123",
+      "id": 10
+    },
+    {
+      "name": "kaushal",
+      "email": "kaushal.com",
+      "password": "kaushal@123",
+      "id": 11
+    },
+    {
+      "name": "mishal",
+      "email": "mishal@gmail.com",
+      "password": "mishal123",
+      "id": 12
+    },
+    {
+      "name": "prabhat",
+      "email": "prabhat@123",
+      "password": "prabhat123",
+      "id": 13
+    },
+    {
+      "name": "abc@1234",
+      "email": "1234",
+      "password": "abc1234",
+      "id": 14
+    },
+    {
+      "name": "mishal",
+      "email": "mishal@1234",
+      "password": "1234",
+      "id": 15
+    },
+    {
+      "name": "vaibhavhi",
+      "email": "vaibhavi@123",
+      "password": "123",
+      "id": 16
+    }
+  ],
+  "products": [
+    {
+      "name": "i phone",
+      "price": "40001",
+      "color": "black",
+      "category": "mobiles",
+      "description": "this is best",
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGlwaG9uZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 3
+    },
+    {
+      "name": "nike",
+      "price": "3000",
+      "color": "red",
+      "category": "shoes",
+      "description": "best shoes",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+      "id": 5
+    },
+    {
+      "name": "LG",
+      "price": "50000",
+      "color": "black",
+      "category": "television",
+      "description": "best ",
+      "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGVsZXZpc2lvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 6
+    },
+    {
+      "name": "tv2",
+      "price": "50000",
+      "color": "white",
+      "category": "television",
+      "description": "it is best",
+      "image": "https://images.unsplash.com/photo-1682687980961-78fa83781450?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80",
+      "id": 7
+    },
+    {
+      "name": "mithai",
+      "price": "1000",
+      "color": "blue",
+      "category": "sweets",
+      "description": "vfvfvfv",
+      "image": "def",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "csc",
+      "email": "ccc",
+      "password": "cdcd",
+      "id": 1
+    },
+    {
+      "name": "kaushal",
+      "email": "kaushalsharma",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "kaushals",
+      "email": "sscs",
+      "password": "ss",
+      "id": 3
+    },
+    {
+      "name": "kaushals",
+      "email": "cscscs",
+      "password": "ss",
+      "id": 4
+    },
+    {
+      "name": "kaushall",
+      "email": "kaushalsharma3468@gmail.com",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "abc",
+      "email": "abc@1234",
+      "password": "1234",
+      "id": 6
+    },
+    {
+      "name": "mishal",
+      "email": "mishal@gmail.com",
+      "password": "mishal123",
+      "id": 7
+    }
+  ],
+  "cart": [
+    {
+      "name": "LG",
+      "price": "50000",
+      "color": "black",
+      "category": "television",
+      "description": "best ",
+      "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGVsZXZpc2lvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "quantity": 4,
+      "productId": 6,
+      "userId": null,
+      "id": 1
+    },
+    {
+      "name": "LG",
+      "price": "50000",
+      "color": "black",
+      "category": "television",
+      "description": "best ",
+      "image": "https://images.unsplash.com/photo-1461151304267-38535e780c79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dGVsZXZpc2lvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "quantity": 4,
+      "productId": 6,
+      "userId": null,
+      "id": 2
+    },
+    {
+      "name": "i phone",
+      "price": "40001",
+      "color": "black",
+      "category": "mobiles",
+      "description": "this is best",
+      "image": "https://images.unsplash.com/photo-1591337676887-a217a6970a8a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGlwaG9uZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 6,
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "email": "sharmakaushal3468@gmail.com",
+      "address": "C-51 tulsi apartment, sector-14, rohini , delhi",
+      "contact": "4434343434",
+      "totalPrice": 40101,
+      "userId": 7,
+      "id": 1
+    },
+    {
+      "email": "abc@1234",
+      "address": "C-51 tulsi apartment, sector-14, rohini , delhi",
+      "contact": "9311580230",
+      "totalPrice": 70100,
+      "userId": 6,
+      "id": 2
+    },
+    {
+      "email": "ddfdfs",
+      "address": "C-51 tulsi apartment, sector-14, rohini , delhi",
+      "contact": "9311580230",
+      "totalPrice": 100100,
+      "userId": 6,
+      "id": 3
+    }
+  ]
+}
